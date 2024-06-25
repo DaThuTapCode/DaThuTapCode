@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+I'm a passionate developer with experience in building web applications using modern technologies. My focus is on creating efficient and scalable applications that provide great user experiences.
+
+### Technologies I Use
+
+- **Java**
+- **Spring Boot**
+- **Angular**
+- **TypeScript**
+
+### 🔭 I’m currently working on
+- Building a robust backend system using Spring Boot
+- Developing dynamic and responsive web applications with Angular and TypeScript
+
+### 🌱 I’m currently learning
+- Advanced Java techniques
+- Modern front-end frameworks and best practices
+
+### 👯 I’m looking to collaborate on
+- Open source projects that use Java and Angular
+- Innovative projects that challenge my skills and help me grow
+
+### 🤔 I’m looking for help with
+- Implementing advanced security features in Spring Boot
+- Optimizing Angular applications for performance
+
+### 💬 Ask me about
+- How to build scalable web applications
+- Tips and tricks for using Spring Boot and Angular together
+
+### 📫 How to reach me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+### ⚡ Fun fact
+I love solving complex algorithms and puzzles in my free time!
+
