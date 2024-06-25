@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-
+- Nguyễn Trọng Phú
 I'm a passionate developer with experience in building web applications using modern technologies. My focus is on creating efficient and scalable applications that provide great user experiences.
 
 ### Technologies I Use
@@ -47,8 +47,7 @@ I'm a passionate developer with experience in building web applications using mo
 - Tips and tricks for using Spring Boot and Angular together
 
 ### 📫 How to reach me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](ntpdth2004@gmail.com)
 
 ### ⚡ Fun fact
 I love solving complex algorithms and puzzles in my free time!
