@@ -2,6 +2,7 @@
 
 <!--
 **DaThuTapCode/DaThuTapCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 ### About Me
 - Nguyễn Trọng Phú
 I'm a passionate developer with experience in building web applications using modern technologies. My focus is on creating efficient and scalable applications that provide great user experiences.
